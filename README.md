@@ -1,8 +1,6 @@
-# The Burrows 
+# The Badger Biodata Initiative 
 
-**The Burrows** is the home of [BRUG](https://erwinlares.github.io/the-burrows/) 
-— the Badger R Users Group — a community of practice for researchers, scientists, 
-and students who code in R at UW–Madison.
+We are a student organization at UW Madison interested in the cross between programming and 
 
 We gather to share tools, strategies, victories, and woes. We help each other 
 figure things out. And we do it in the spirit of the Wisconsin Idea: start on 

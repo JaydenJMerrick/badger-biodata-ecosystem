@@ -1,0 +1,131 @@
+[
+  {
+    "objectID": "member-projects/index.html",
+    "href": "member-projects/index.html",
+    "title": "TEMPLATE INDEX",
+    "section": "",
+    "text": "INDEX TO WORK ON",
+    "crumbs": [
+      "Member Projects"
+    ]
+  },
+  {
+    "objectID": "index.html#the-badger-biodata-initiative-mission-statement",
+    "href": "index.html#the-badger-biodata-initiative-mission-statement",
+    "title": "Welcome to the Badger Biodata Initiative Official Website!",
+    "section": "The Badger Biodata Initiative Mission Statement",
+    "text": "The Badger Biodata Initiative Mission Statement\nBadger Biodata Initiative is directed to those interested in programming projects related to biology and biological data. The goal is to create a space to organize groups of members to collaborate, create notable projects, learn together, and for each member to gain experience. Our promise to each member is to allow for the opportunity to learn and gain experience with programming languages, git, github, and useful libraries.",
+    "crumbs": [
+      "Home Page"
+    ]
+  },
+  {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "Welcome to the Badger Biodata Initiative Official Website!",
+    "section": "What we do",
+    "text": "What we do\n\nBuild Biological Data Projects\nLearn & Use Industry-Relevant Tools\nExplore Bio-computational and Bioinformatical Concepts\nEstablish Connections and Collaborate",
+    "crumbs": [
+      "Home Page"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-join",
+    "href": "index.html#how-to-join",
+    "title": "Welcome to the Badger Biodata Initiative Official Website!",
+    "section": "How to Join",
+    "text": "How to Join\nInterested applications should fill out the Badger Biodata Membership Form & Agreement. Members will be processed and reached out to via our email.\nJoin our Official Slack Page: [COMING SOON] Find Us on the Wisconsin Involvement Network (WIN): [COMING SOON]",
+    "crumbs": [
+      "Home Page"
+    ]
+  },
+  {
+    "objectID": "club-highlights/index.html",
+    "href": "club-highlights/index.html",
+    "title": "TEMPLATE INDEX",
+    "section": "",
+    "text": "INDEX TO WORK ON",
+    "crumbs": [
+      "Club Highlights"
+    ]
+  },
+  {
+    "objectID": "about-bbdi/index.html",
+    "href": "about-bbdi/index.html",
+    "title": "TEMPLATE INDEX",
+    "section": "",
+    "text": "INDEX TO Work on\nwords words words words",
+    "crumbs": [
+      "About BDI"
+    ]
+  },
+  {
+    "objectID": "about-bbdi/event1.test..html",
+    "href": "about-bbdi/event1.test..html",
+    "title": "TESTING ABOUT PAGE",
+    "section": "",
+    "text": "even more words even more words even more words even more words even more words"
+  },
+  {
+    "objectID": "club-events/index.html",
+    "href": "club-events/index.html",
+    "title": "INDEXmd for BDDI events",
+    "section": "",
+    "text": "words words words words",
+    "crumbs": [
+      "Club Events"
+    ]
+  },
+  {
+    "objectID": "CONTRIBUTING.html",
+    "href": "CONTRIBUTING.html",
+    "title": "Contributing to BRUG",
+    "section": "",
+    "text": "Welcome, and thank you for contributing to the Badger R Users Group website. This site is built and maintained by the BRUG community — which means it is built and maintained by you. Whether you are sharing a workflow that saved your afternoon, posting slides from a recent meetup, or pointing the group toward a package worth knowing, your contribution makes BRUG more useful for everyone.\n\n\nWe welcome four types of contributions:\nBlog posts are the most open-ended format. A post might be a short reflection on a problem you solved, a walkthrough of a tool or workflow, a recap of something you learned at a conference, or an honest account of something that didn’t work and why. Posts live in blog/posts/ and should include a reproducible example where relevant.\nResources are curated additions to one of the topic pages (visualization, wrangling, reproducibility, HPC, and others as they grow). A resource contribution might be a link with a short annotation, a code snippet, or a brief comparison of approaches. Resources live in resources/ under the appropriate topic file.\nPresentations are slides or supporting materials from a BRUG meetup or related event. Presentations live in presentations/ in a dated subfolder (YYYY-MM-DD-title/). A short abstract or description in the index.qmd is appreciated but not required.\nSite improvements are contributions to the infrastructure of the site itself — fixing a broken link, improving navigation, updating the about page, or proposing a new topic section. These are always welcome.\n\n\n\n\nFork the repository and create a branch for your contribution.\n\nAdd your content following the structure described above and the format notes below.\n\nOpen a pull request using the provided template. Describe what you are contributing and what type of contribution it is.\n\nA BRUG officer will review your PR and either merge it or follow up with light feedback. We aim to review PRs within two weeks.\n\nIf you are new to pull requests, that is completely fine — this is a good place to practice. Feel free to open a draft PR early and ask questions in the comments.\n\n\n\nThese are suggestions, not hard rules. When in doubt, submit what you have and we will work it out together.\nBlog posts should include a YAML header with at least a title, author, and date. Something like:\n-–\ntitle: “A title that tells me what I will learn”\nauthor: “Your Name”\ndate: “YYYY-MM-DD”\ncategories: [reproducibility, wrangling, visualization, HPC, other]\n-–\nA post should be self-contained where possible. If your post depends on data or external files, include them in the post’s subfolder under data/. If your post includes code, aim for examples that a reader can run on their own machine without heroics.\nResources should include a brief annotation — one or two sentences explaining why this resource is worth the reader’s time. A link alone is less useful than a link with context.\nPresentations should include an index.qmd with at minimum a title, presenter name, and date. Slides can be in any format (Quarto, PDF, HTML), though Quarto is preferred for consistency.\n\n\n\nBRUG is a place for researchers at all levels of R experience. Contributions should be written with that range in mind — accessible to someone earlier in their R journey without being condescending to someone who has been writing packages for a decade. When in doubt, err on the side of more context rather than less.\n\n\n\nOpen an issue or reach out to the BRUG officers directly. We are glad you are here."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#what-can-i-contribute",
+    "href": "CONTRIBUTING.html#what-can-i-contribute",
+    "title": "Contributing to BRUG",
+    "section": "",
+    "text": "We welcome four types of contributions:\nBlog posts are the most open-ended format. A post might be a short reflection on a problem you solved, a walkthrough of a tool or workflow, a recap of something you learned at a conference, or an honest account of something that didn’t work and why. Posts live in blog/posts/ and should include a reproducible example where relevant.\nResources are curated additions to one of the topic pages (visualization, wrangling, reproducibility, HPC, and others as they grow). A resource contribution might be a link with a short annotation, a code snippet, or a brief comparison of approaches. Resources live in resources/ under the appropriate topic file.\nPresentations are slides or supporting materials from a BRUG meetup or related event. Presentations live in presentations/ in a dated subfolder (YYYY-MM-DD-title/). A short abstract or description in the index.qmd is appreciated but not required.\nSite improvements are contributions to the infrastructure of the site itself — fixing a broken link, improving navigation, updating the about page, or proposing a new topic section. These are always welcome."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#how-do-i-contribute",
+    "href": "CONTRIBUTING.html#how-do-i-contribute",
+    "title": "Contributing to BRUG",
+    "section": "",
+    "text": "Fork the repository and create a branch for your contribution.\n\nAdd your content following the structure described above and the format notes below.\n\nOpen a pull request using the provided template. Describe what you are contributing and what type of contribution it is.\n\nA BRUG officer will review your PR and either merge it or follow up with light feedback. We aim to review PRs within two weeks.\n\nIf you are new to pull requests, that is completely fine — this is a good place to practice. Feel free to open a draft PR early and ask questions in the comments."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#format-notes",
+    "href": "CONTRIBUTING.html#format-notes",
+    "title": "Contributing to BRUG",
+    "section": "",
+    "text": "These are suggestions, not hard rules. When in doubt, submit what you have and we will work it out together.\nBlog posts should include a YAML header with at least a title, author, and date. Something like:\n-–\ntitle: “A title that tells me what I will learn”\nauthor: “Your Name”\ndate: “YYYY-MM-DD”\ncategories: [reproducibility, wrangling, visualization, HPC, other]\n-–\nA post should be self-contained where possible. If your post depends on data or external files, include them in the post’s subfolder under data/. If your post includes code, aim for examples that a reader can run on their own machine without heroics.\nResources should include a brief annotation — one or two sentences explaining why this resource is worth the reader’s time. A link alone is less useful than a link with context.\nPresentations should include an index.qmd with at minimum a title, presenter name, and date. Slides can be in any format (Quarto, PDF, HTML), though Quarto is preferred for consistency."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#a-note-on-tone",
+    "href": "CONTRIBUTING.html#a-note-on-tone",
+    "title": "Contributing to BRUG",
+    "section": "",
+    "text": "BRUG is a place for researchers at all levels of R experience. Contributions should be written with that range in mind — accessible to someone earlier in their R journey without being condescending to someone who has been writing packages for a decade. When in doubt, err on the side of more context rather than less."
+  },
+  {
+    "objectID": "CONTRIBUTING.html#questions",
+    "href": "CONTRIBUTING.html#questions",
+    "title": "Contributing to BRUG",
+    "section": "",
+    "text": "Open an issue or reach out to the BRUG officers directly. We are glad you are here."
+  },
+  {
+    "objectID": "meeting-info/index.html",
+    "href": "meeting-info/index.html",
+    "title": "TEMPLATE INDEX",
+    "section": "",
+    "text": "INDEX TO WORK ON",
+    "crumbs": [
+      "Club Meeting Info"
+    ]
+  }
+]
