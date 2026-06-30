@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: images/flower-favicon.png
+  page-footer:
+    left: "© 2026 Badger BioData Initiative. Code: MIT · Content: CC BY 4.0"
+    center: " "
+    right: 
+      - icon: github
+        href: https://github.com/JaydenJMerrick/biodata-ecosystem.git 
+  description: "The Badger Biodata Initiative works to create a space for undergraduates to learn, create, and work with biological data."
+  sidebar:
+    background: primary
+    logo: images/Badger-Biodata-Logo.png
+    id: "ecosystem-sidebar"
+    style: "docked"        # Keeps the vertical sidebar locked to the left side
+    position: "left"       # Standard vertical alignment
+    contents:
+      - href: index.md
+        text: "Home"
+      - href: about/index.md
+        text: "About"
+      - href: projects/index.md
+        text: "Projects"
+      - href: highlights/index.md
+        text: "Highlights"
+      - href: meetings/index.md
+        text: "Meeting & Events"
+      - href: resources/index.md
+        text: "Resources & Community"
+
+
+format:
+  html:
+    theme:
+        - none
+        - styles.scss

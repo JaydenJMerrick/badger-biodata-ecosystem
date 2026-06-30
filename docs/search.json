@@ -1,0 +1,112 @@
+[
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources and Community",
+    "section": "",
+    "text": "Badger Biodata works closely alongside BRUG to share resources and collaborate. One of the resposibilities of Badger Biodata is to participate in BRUG’s meetings and contributing to BRUG’s website.",
+    "crumbs": [
+      "Resources & Community"
+    ]
+  },
+  {
+    "objectID": "resources/index.html#resources",
+    "href": "resources/index.html#resources",
+    "title": "Resources and Community",
+    "section": "",
+    "text": "Badger Biodata works closely alongside BRUG to share resources and collaborate. One of the resposibilities of Badger Biodata is to participate in BRUG’s meetings and contributing to BRUG’s website.",
+    "crumbs": [
+      "Resources & Community"
+    ]
+  },
+  {
+    "objectID": "resources/index.html#contact-badger-biodata-initiative",
+    "href": "resources/index.html#contact-badger-biodata-initiative",
+    "title": "Resources and Community",
+    "section": "Contact Badger Biodata Initiative",
+    "text": "Contact Badger Biodata Initiative\nPlease contact Jayden Merrick for any questions regarding this club: jjmerrick [at] wisc.edu",
+    "crumbs": [
+      "Resources & Community"
+    ]
+  },
+  {
+    "objectID": "meetings/index.html",
+    "href": "meetings/index.html",
+    "title": "Meetings and Events",
+    "section": "",
+    "text": "First meeting\nOur first meeting will occur after BRUG’s first meeting on July 7th. Stay tuned!!",
+    "crumbs": [
+      "Meeting & Events"
+    ]
+  },
+  {
+    "objectID": "highlights/index.html",
+    "href": "highlights/index.html",
+    "title": "Badger Biodata Highlights",
+    "section": "",
+    "text": "Highlight is incoming after the first meeting!",
+    "crumbs": [
+      "Highlights"
+    ]
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About The Badger Biodata Initiative",
+    "section": "",
+    "text": "Badger Biodata creates a space upon campus to learn, create, and share about bioinformatics, bio-computation, and biological data projects.\nOur goal is to support member projects, create a club portfolio, boost member expereince, and create a network on campus.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about/index.html#club-description",
+    "href": "about/index.html#club-description",
+    "title": "About The Badger Biodata Initiative",
+    "section": "",
+    "text": "Badger Biodata creates a space upon campus to learn, create, and share about bioinformatics, bio-computation, and biological data projects.\nOur goal is to support member projects, create a club portfolio, boost member expereince, and create a network on campus.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html#the-badger-biodata-initiative-mission-statement",
+    "href": "index.html#the-badger-biodata-initiative-mission-statement",
+    "title": "",
+    "section": "The Badger Biodata Initiative Mission Statement",
+    "text": "The Badger Biodata Initiative Mission Statement\nBadger Biodata Initiative is directed to those interested in programming projects related to biology and biological data. The goal is to create a space to organize groups of members to collaborate, create notable projects, learn together, and for each member to gain experience. Our promise to each member is to allow for the opportunity to learn and gain experience with programming languages, git, github, and useful libraries.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#what-we-do",
+    "href": "index.html#what-we-do",
+    "title": "",
+    "section": "What we do",
+    "text": "What we do\n\nBuild Biological Data Projects\nLearn & Use Industry-Relevant Tools\nExplore Bio-computational and Bioinformatical Concepts\nEstablish Connections and Collaborate",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-join",
+    "href": "index.html#how-to-join",
+    "title": "",
+    "section": "How to Join",
+    "text": "How to Join\nInterested applications should fill out the Badger Biodata Membership Form & Agreement. Members will be processed and reached out to via our email.\nJoin our Official Badger Biodata Google Slack Group!",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Member Projects",
+    "section": "",
+    "text": "CNN Model Analyzing non-coding DNA for Cancer\nUsing Supervised training for a CNN to analyze large DNA datasets, specifically the non-coding DNA sequences, to discover possible patterns that result in Melanomia cancer.\nAuthor(s): Jayden Merrick\nGithub link",
+    "crumbs": [
+      "Projects"
+    ]
+  }
+]
